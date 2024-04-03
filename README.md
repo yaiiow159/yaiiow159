@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Blog-app](https://github.com/yaiiow159/Blog_app)
 
-- 🌱 I’m currently learning **k8s, gcp**, **aws
+- 🌱 I’m currently learning **Aws, gcp**, 
 
 - 📝 I regularly write articles on [https://www.notion.so/invite/e524fb22bcdaaf6f03fa3307e8a40e69d1798c16](https://www.notion.so/invite/e524fb22bcdaaf6f03fa3307e8a40e69d1798c16)
 
-- 💬 Ask me about ** Java, Springboot, JS, Vue...**
+- 💬 Ask me about ** Java, Springboot, JS, Vue...
 
 - 📫 How to reach me **examyou076@gmail.com**
 
