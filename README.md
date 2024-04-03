@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **examyou076@gmail.com**
 
+- 📝 I regularly write articles on [https://medium.com/@examyou076]
+
 - ⚡ Fun fact **I think Im a funny and outdoor person**
 
 <h3 align="left">Connect with me:</h3>
