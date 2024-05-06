@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Aws, gcp**, 
 
-- 📝 I regularly write articles on [medium心得]([https://www.notion.so/invite/e524fb22bcdaaf6f03fa3307e8a40e69d1798c16](https://medium.com/me/stories/public))
+- 📝 I regularly write articles on [https://medium.com/me/stories/public]
 
-- 💬 Ask me about ** Java, Springboot, JS, Vue...
+- 💬 Ask me about ** Java、Springboot、JS、Vue、docker
 
 - 📫 How to reach me **examyou076@gmail.com**
 
