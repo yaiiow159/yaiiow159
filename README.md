@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Aws, gcp**, 
 
-- 📝 I regularly write articles on [https://www.notion.so/invite/e524fb22bcdaaf6f03fa3307e8a40e69d1798c16](https://www.notion.so/invite/e524fb22bcdaaf6f03fa3307e8a40e69d1798c16)
+- 📝 I regularly write articles on [medium心得]([https://www.notion.so/invite/e524fb22bcdaaf6f03fa3307e8a40e69d1798c16](https://medium.com/me/stories/public))
 
 - 💬 Ask me about ** Java, Springboot, JS, Vue...
 
