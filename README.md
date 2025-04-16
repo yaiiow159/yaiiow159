@@ -1,19 +1,50 @@
-<h1 align="center">Hi 👋, I'm Timmy</h1>
-<h3 align="center">A passionate and enthusiastic Backend Java developer from Taiwan</h3>
+<h1 align="center">Hi 👋, I'm Timmy Chung</h1>
+<h3 align="center">A seasoned software engineer specializing in enterprise-level systems and performance optimization from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaiiow159&label=Profile%20views&color=0e75b6&style=flat" alt="yaiiow159" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaiiow159" alt="yaiiow159" /></a> </p>
 
-- 🔭 I’m currently working on [Blog-app](https://github.com/yaiiow159/Blog_app)
+### About Me
+- 🎓 B.B.A. in Information Management from Tamkang University of Science and Technology (2016-2021)
+- 💼 3 years of hands-on experience in high-concurrency environments
+- 🔭 Currently working as a Software Engineer at ESound Technology Co., Ltd.
+- 🌱 Experienced in full-stack development and system architecture
+- 📫 How to reach me: **examyou076@gmail.com**
+- 💬 LineID: timmy0920
 
-- 🌱 I’m currently learning **Aws, gcp**, 
+### Professional Experience
+- **Software Engineer** at ESound Technology Co., Ltd. (Sep 2023 - Feb 2024)
+  - Full-stack development for Child Placement and Tracking System
+  - Technology stack: Spring MVC, Oracle, MySQL, jQuery, Thymeleaf
+  - Implemented SonarQube for code quality and security enhancement
+
+- **Software Engineer** at Hitrast Technology Co., Ltd. (Aug 2022 - Sep 2023)
+  - Led system refactoring with SSO-based permission design
+  - Implemented asynchronous architecture using RocketMQ
+  - Optimized database performance through indexing and table partitioning
+
+- **Software Engineer** at Onework Co., Ltd. (Aug 2024 - Apr 2025)
+  - Managed IoT platform handling 10,000+ sensors and 1,000+ devices
+  - Implemented Observer and Singleton patterns for real-time state management
+  - Optimized JVM performance for high-frequency payloads
+
+### Technical Skills
+- **Backend Development**: Java (primary), Node.js, Python, Spring Boot, RESTful API design
+- **Frontend Development**: Vue.js, React, Bootstrap, HTML/CSS
+- **DevOps & Cloud**: Docker, Jenkins, AWS (S3, RDS, EC2), GCP
+- **Databases**: PostgreSQL, MySQL, Oracle, Redis, MongoDB
+- **Monitoring & Tools**: Elasticsearch, Prometheus, Grafana, JConsole
+- **Message Queues**: Kafka, RocketMQ
+- **Testing**: Selenium, JMeter, Postman
+
+- 🔭 I'm currently working on [Blog-app](https://github.com/yaiiow159/Blog_app)
+
+- 🌱 I'm currently learning **Aws, gcp**, 
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public]
 
 - 💬 Ask me about ** Java、Springboot、JS、Vue、docker
-
-- 📫 How to reach me **examyou076@gmail.com**
 
 - 📝 I regularly write articles on [https://medium.com/@examyou076]
 
