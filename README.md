@@ -1,67 +1,124 @@
-<h1 align="center">Hi 👋, I'm Timmy Chung</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | System Architect</h3>
+# <div align="center">Timmy Chung</div>
+## <div align="center">Software Engineer | Full-Stack Developer | System Architect</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaiiow159&label=Profile%20views&color=0e75b6&style=flat" alt="yaiiow159" /> </p>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=yaiiow159&label=Profile%20views&color=0e75b6&style=flat)
+  
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yaiiow159&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Timmy_Chung-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/timmy-chung)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-timmy--chung-FFA116?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/timmy-chung)
+  [![Medium](https://img.shields.io/badge/Medium-@examyou076-12100E?style=for-the-badge&logo=medium)](https://medium.com/@examyou076)
+  
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaiiow159" alt="yaiiow159" /></a> </p>
+## 📋 About Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/timmy chung" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timmy chung" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/timmy-chung" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="timmy-chung" height="30" width="40" /></a>
-  <a href="https://medium.com/@examyou076" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="timmy-chung" height="30" width="40" /></a>
-</p>
+- 🎓 **Education**: B.B.A. in Information Management from Tamkang University
+- 💼 **Experience**: 3+ years in enterprise-level systems
+- 🔭 **Current Role**: Software Engineer at Onework
+- 🌱 **Expertise**: High-concurrency systems & performance optimization
+- 📫 **Contact**: examyou076@gmail.com | LineID: timmy0920
 
-### About Me
-- 🎓 B.B.A. in Information Management from Tamkang University
-- 💼 3+ years of experience in enterprise-level systems
-- 🔭 Currently working as a Software Engineer at ESound Technology
-- 🌱 Specialized in high-concurrency systems & performance optimization
-- 📫 Contact: examyou076@gmail.com | LineID: timmy0920
+## 💼 Professional Journey
 
-### Professional Experience
-- **Software Engineer** at ESound Technology (2023-2024)
-  - Led full-stack development for Child Placement and Tracking System
-  - Implemented SonarQube for code quality enhancement
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td width="100px" align="center" style="border-right: 3px solid #4285F4;">
+        <h3>2022</h3>
+      </td>
+      <td>
+        <h3>Hitrast Technology</h3>
+        <h4>Software Engineer</h4>
+        <ul>
+          <li>Architected SSO-based permission system</li>
+          <li>Optimized database performance through indexing and partitioning</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="100px" align="center" style="border-right: 3px solid #4285F4;">
+        <h3>2023</h3>
+      </td>
+      <td>
+        <h3>ESound Technology</h3>
+        <h4>Software Engineer</h4>
+        <ul>
+          <li>Led full-stack development for Child Placement and Tracking System</li>
+          <li>Implemented SonarQube for code quality enhancement</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="100px" align="center" style="border-right: 3px solid #4285F4;">
+        <h3>2024</h3>
+      </td>
+      <td>
+        <h3>Onework</h3>
+        <h4>Software Engineer</h4>
+        <ul>
+          <li>Managed IoT platform with 10,000+ sensors</li>
+          <li>Implemented real-time state management patterns</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- **Software Engineer** at Hitrast Technology (2022-2023)
-  - Architected SSO-based permission system
-  - Optimized database performance through indexing and partitioning
+## 🛠️ Tech Stack
 
-- **Software Engineer** at Onework (2024-2025)
-  - Managed IoT platform with 10,000+ sensors
-  - Implemented real-time state management patterns
+<div align="center">
+  
+  ### Core Technologies
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+  
+  ### Cloud & DevOps
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  
+  ### Databases & Messaging
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+  
+  ### Frontend & Design
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  
+  ### Tools & Others
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+  
+</div>
 
-### Tech Stack
-<p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
-</p>
+## 📊 GitHub Stats
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaiiow159&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaiiow159&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=yaiiow159&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaiiow159&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaiiow159&theme=tokyonight" alt="GitHub Streak" />
+  
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaiiow159&theme=radical" alt="GitHub Streak" />
-</p>
+## 🔗 Connect With Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/tim chung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tim chung" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/timmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="timmy" height="30" width="40" /></a>
-<a href="https://fb.com/張宏文" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="張宏文" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
+<div align="center">
+  
+  [![CodePen](https://img.shields.io/badge/CodePen-Tim_Chung-000000?style=for-the-badge&logo=codepen)](https://codepen.io/tim-chung)
+  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Timmy-FE7A16?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/timmy)
+  [![Facebook](https://img.shields.io/badge/Facebook-張宏文-1877F2?style=for-the-badge&logo=facebook)](https://fb.com/張宏文)
+  
+</div>
