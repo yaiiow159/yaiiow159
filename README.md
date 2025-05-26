@@ -8,8 +8,8 @@
   [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yaiiow159&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Timmy_Chung-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/timmy-chung)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-timmy--chung-FFA116?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/timmy-chung)
-  [![Medium](https://img.shields.io/badge/Medium-@examyou076-12100E?style=for-the-badge&logo=medium)](https://medium.com/@examyou076)
+  [![Line](https://img.shields.io/badge/Line-timmy0920-00C300?style=for-the-badge&logo=line)](https://line.me/ti/p/timmy0920)
+  [![Email](https://img.shields.io/badge/Email-examyou076@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:examyou076@gmail.com)
   
 </div>
 
@@ -19,7 +19,6 @@
 - 💼 **Experience**: 3+ years in enterprise-level systems
 - 🔭 **Current Role**: Software Engineer at Onework
 - 🌱 **Expertise**: High-concurrency systems & performance optimization
-- 📫 **Contact**: examyou076@gmail.com | LineID: timmy0920
 
 ## 💼 Professional Journey
 
@@ -27,14 +26,15 @@
   <table border="0" cellspacing="0" cellpadding="10">
     <tr>
       <td width="100px" align="center" style="border-right: 3px solid #4285F4;">
-        <h3>2022</h3>
+        <h3>2024</h3>
       </td>
       <td>
-        <h3>Hitrast Technology</h3>
+        <h3>Onework</h3>
         <h4>Software Engineer</h4>
         <ul>
-          <li>Architected SSO-based permission system</li>
-          <li>Optimized database performance through indexing and partitioning</li>
+          <li>Managed IoT platform with 10,000+ sensors</li>
+          <li>Implemented real-time state management system</li>
+          <li>Optimized system performance and scalability</li>
         </ul>
       </td>
     </tr>
@@ -48,19 +48,21 @@
         <ul>
           <li>Led full-stack development for Child Placement and Tracking System</li>
           <li>Implemented SonarQube for code quality enhancement</li>
+          <li>Designed and implemented microservices architecture</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td width="100px" align="center" style="border-right: 3px solid #4285F4;">
-        <h3>2024</h3>
+        <h3>2022</h3>
       </td>
       <td>
-        <h3>Onework</h3>
+        <h3>Hitrast Technology</h3>
         <h4>Software Engineer</h4>
         <ul>
-          <li>Managed IoT platform with 10,000+ sensors</li>
-          <li>Implemented real-time state management patterns</li>
+          <li>Architected and implemented SSO-based permission system</li>
+          <li>Optimized database performance and query speed</li>
+          <li>Developed automated testing framework</li>
         </ul>
       </td>
     </tr>
@@ -117,8 +119,8 @@
 
 <div align="center">
   
-  [![CodePen](https://img.shields.io/badge/CodePen-Tim_Chung-000000?style=for-the-badge&logo=codepen)](https://codepen.io/tim-chung)
-  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Timmy-FE7A16?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/timmy)
-  [![Facebook](https://img.shields.io/badge/Facebook-張宏文-1877F2?style=for-the-badge&logo=facebook)](https://fb.com/張宏文)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Timmy_Chung-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/timmy-chung)
+  [![Line](https://img.shields.io/badge/Line-timmy0920-00C300?style=for-the-badge&logo=line)](https://line.me/ti/p/timmy0920)
+  [![Email](https://img.shields.io/badge/Email-examyou076@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:examyou076@gmail.com)
   
 </div>
